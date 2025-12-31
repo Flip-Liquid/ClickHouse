@@ -17,9 +17,15 @@ SUCCESS
 Testing wrong SHA256 password:
 EXPECTED_FAILURE
 === Testing Mixed Authentication Methods ===
-Testing mixed auth plaintext password:
-mixed_plain_success
+Testing mixed auth plaintext password 1:
+mixed_plain_success_1
 SUCCESS
-Testing mixed auth SHA256 password:
-mixed_sha_success
+Testing mixed auth plaintext password 2:
+mixed_plain_success_2
+SUCCESS
+Testing mixed auth SHA256 password 1:
+mixed_sha_success_1
+SUCCESS
+Testing mixed auth SHA256 password 2:
+mixed_sha_success_2
 SUCCESS
